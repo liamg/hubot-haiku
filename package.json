@@ -1,6 +1,6 @@
 {
   "name": "hubot-haiku",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Generate dismal haiku with hubot",
   "main": "index.js",
   "repository": {
