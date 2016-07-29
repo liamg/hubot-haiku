@@ -10,7 +10,9 @@
   "keywords": [
     "haiku",
     "poem",
-    "poetry"
+    "poetry",
+    "hubot",
+    "hubot-scripts"
   ],
   "author": "Liam Galvin <liam@liam-galvin.co.uk> (https://github.com/liamg)",
   "license": "ISC",
