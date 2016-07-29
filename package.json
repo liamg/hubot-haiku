@@ -1,0 +1,21 @@
+{
+  "name": "hubot-haiku",
+  "version": "1.0.0",
+  "description": "Generate dismal haiku with hubot",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liamg/hubot-haiku.git"
+  },
+  "keywords": [
+    "haiku",
+    "poem",
+    "poetry"
+  ],
+  "author": "Liam Galvin <liam@liam-galvin.co.uk> (https://github.com/liamg)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liamg/hubot-haiku/issues"
+  },
+  "homepage": "https://github.com/liamg/hubot-haiku#readme"
+}
