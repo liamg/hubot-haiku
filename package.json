@@ -1,8 +1,8 @@
 {
   "name": "hubot-haiku",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Generate dismal haiku with hubot",
-  "main": "index.js",
+  "main": "src/haiku.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/liamg/hubot-haiku.git"

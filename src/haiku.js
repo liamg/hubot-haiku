@@ -1,6 +1,13 @@
-
+// Description:
+// //   Allows hubot to craft dismal haiku.
+// //
+// // Commands:
+// //   hubot haiku - Craft a dismal haiku.
+// //
+// // Author:
+// //   lgalvin
+// //
 module.exports = function (robot) {
-    robot.commands.push(robot.name + " haiku - Craft a dismal haiku.");
     robot.respond(/.*\bhaiku\b.*/i, function (res) {
         switch(robot.adapterName) {
             case 'slack':
