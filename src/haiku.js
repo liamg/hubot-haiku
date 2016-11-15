@@ -1,12 +1,12 @@
 // Description:
-// //   Allows hubot to craft dismal haiku.
-// //
-// // Commands:
-// //   hubot haiku - Craft a dismal haiku.
-// //
-// // Author:
-// //   lgalvin
-// //
+//   Allows hubot to craft dismal haiku.
+// 
+// Commands:
+//   hubot haiku - Craft a dismal haiku.
+//
+// Author:
+//   lgalvin
+//
 module.exports = function (robot) {
     robot.respond(/.*\bhaiku\b.*/i, function (res) {
         switch(robot.adapterName) {
